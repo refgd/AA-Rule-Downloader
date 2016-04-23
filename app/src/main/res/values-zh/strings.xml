@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AA规则文件下载器</string>
+    <string name="download">下载</string>
+    <string name="refresh">刷新</string>
+    <string name="loading">加载中...</string>
+</resources>

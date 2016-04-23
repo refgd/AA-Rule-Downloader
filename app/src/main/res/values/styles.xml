@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.DeviceDefault.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="SpotsDialogDefault" parent="android:Theme.DeviceDefault.Light.Dialog">
+        <item name="DialogTitleAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="DialogTitleText">@string/loading</item>
+        <item name="DialogSpotCount">5</item>
+    </style>
+
+</resources>
